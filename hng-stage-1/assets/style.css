@@ -1,0 +1,67 @@
+.bg {
+  background: linear-gradient(rgba(53, 2, 71, 0.69), rgba(53, 2, 71, 0.69)),url('./holiday-hotel-las-vegas-6534.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+  width: 100%;
+  height: auto;
+  top: 0;
+  left: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.hey {
+  margin-top: 150px;
+  font-family: Advent Pro;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 50px;
+  letter-spacing: 0.05em;
+  color: white;
+}
+.welcome {
+  margin-top:-30px;
+  color: white;
+  font-family: Advent Pro;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 50px;
+  letter-spacing: 0.05em;
+}
+
+.card1 {
+  position: absolute;
+  margin-top: 75px;
+  margin-left: 420px;
+  width: 579px;
+  height: 264px;
+  background-color: rgba(255, 255, 255, 0.69);
+  border-radius: 10px;
+
+}
+
+.card2 {
+  margin-top: -57px;
+  margin-left: 53px;
+  width: 469px;
+  height: 273px;
+  background-color: rgba(255, 255, 255, 0.69);
+  border-radius: 10px;
+  position: absolute;
+
+}
+
+.time {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 110px;
+  color:#491480;
+}
